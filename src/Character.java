@@ -1,3 +1,8 @@
+/*
+ * Michael Cassens
+ * This abstract class allows you to create a character
+ * each character has it's own action listener
+ */
 import java.awt.event.ActionListener;
 import java.util.Random;
 
